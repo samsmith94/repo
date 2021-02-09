@@ -1,10 +1,10 @@
 ##### Table of Contents  
-[Lorem](#egy)
-[Ipsum](#ketto)
-[Dolor](#harom)
-[Sit](#negy)
-[Amet](#ot)
-
+* [Lorem](#egy)
+* [Ipsum](#ketto)
+* [Dolor](#harom)
+* [Sit](#negy)
+* [Amet](#ot)
+<hr>
 
 <a name="egy"/>
 ## Lorem
